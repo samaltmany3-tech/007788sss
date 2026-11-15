@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">صرف</string>
+    <string name="title_activity_main">صرف</string>
+    <string name="package_name">com.eslam.sarf</string>
+    <string name="custom_url_scheme">com.eslam.sarf</string>
+</resources>

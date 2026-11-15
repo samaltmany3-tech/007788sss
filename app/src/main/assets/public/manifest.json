@@ -1,0 +1,10 @@
+{
+  "short_name": "صرف",
+  "name": "صرف - إدارة المصروفات",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "dir": "rtl",
+  "lang": "ar"
+}
